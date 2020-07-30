@@ -1,8 +1,9 @@
 BeautifulSoup4
 eyed3
 urllib3
-pathlib
 request
+pathlib
+requests
 mutagen
 pySmartDL
 logger
