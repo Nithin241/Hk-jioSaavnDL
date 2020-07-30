@@ -22,9 +22,7 @@ import logging
 from telegram.ext import (Updater, CommandHandler, MessageHandler, Filters, RegexHandler,
                           ConversationHandler)
 ###############################################################
-welcome = "Hi. Bot moved to @JioSaavnDL_Bot. 
-
-ℹ️ Subscribe @TR_BOTS and share to your friends if you like the bot!"
+welcome = "Hi. Bot moved to @JioSaavnDL_Bot \n ℹ️ Subscribe @TR_BOTS and share to your friends if you like the bot!"
 
 
 
